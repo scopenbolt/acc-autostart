@@ -1,1 +1,1 @@
-A Magisk module that runs command "acc 80 40" in 5 minutes after restart. On some devices that resets after reboot, so there is lazy solution for those who doesn't want to install big autostart modules. You can unpack this and replace the values.
+A Magisk module for [Advanced Charging Controller](https://github.com/VR-25/acc) that runs command "acc 80 40" in 5 minutes after restart. On some devices that resets after reboot, so there is lazy solution for those who doesn't want to install big autostart modules. You can unpack this and replace the values.
