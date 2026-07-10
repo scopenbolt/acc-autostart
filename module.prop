@@ -1,0 +1,7 @@
+id=acc_autostart
+name=ACC AutoStart
+version=v1.0
+versionCode=1
+author=ScopenBolt
+description=Sets up acc in 5 minutes after reboot.
+ 5 минут после загрузки.
