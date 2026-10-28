@@ -5,4 +5,4 @@ done
 
 sleep 300
 
-acc 80 40
+/data/adb/modules/acc/acc.sh 80 40
